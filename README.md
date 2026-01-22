@@ -31,7 +31,7 @@ Passionate about crafting elegant solutions to complex problems. I love building
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamikashashipriya99&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamikashashipriya99&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=chamikashashipriya99&theme=radical&hide_border=true)
 
 </div>
 
