@@ -8,10 +8,6 @@ A passionate web developer with expertise in building modern, responsive web app
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chamikashashipriya99&label=Profile%20views&color=0e75b6&style=flat" alt="chamikashashipriya99" />
-</p>
-
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikashashipriya99&show_icons=true&locale=en&layout=compact" alt="chamikashashipriya99" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chamikashashipriya99&show_icons=true&locale=en" alt="chamikashashipriya99" />
