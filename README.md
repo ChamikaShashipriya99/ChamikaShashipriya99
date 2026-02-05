@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Chamika+Shashipriya;Web+Developer;Full+Stack+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Chamika+Shashipriya;Web+Developer;Full+Stack+Web+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Web Developer | Sri Lanka</h3>
