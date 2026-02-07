@@ -61,11 +61,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamikashashipriya99&show_icons=true&theme=tokyonight&hide_border=true" alt="chamikashashipriya99" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamikashashipriya99&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="chamikashashipriya99" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamikashashipriya99&theme=tokyonight&hide_border=true" alt="chamikashashipriya99" />
+  <img src="github-metrics.svg" alt="Chamika Shashipriya's GitHub metrics" />
 </p>
 
 ---
