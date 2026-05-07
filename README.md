@@ -14,7 +14,7 @@
 <h3 align="center">🚀 Portfolio</h3>
 
 <p align="center">
-  <a href="https://my-portfolio-html-css-js-sigma.vercel.app/" target="_blank">
+  <a href="https://chamika-shashipriya.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
