@@ -64,6 +64,13 @@
   <img src="github-metrics.svg" alt="Chamika Shashipriya's GitHub metrics" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ChamikaShashipriya99/ChamikaShashipriya99/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <img alt="github contribution grid snake animation" src="https://github.com/ChamikaShashipriya99/ChamikaShashipriya99/blob/output/github-contribution-grid-snake.svg?raw=true">
+  </picture>
+</p>
+
 ---
 
 <h3 align="center">🔗 Connect With Me</h3>
