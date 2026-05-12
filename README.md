@@ -80,6 +80,18 @@
 
 ---
 
+<h3 align="center">📈 Profile Summary Dashboard</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChamikaShashipriya99/ChamikaShashipriya99/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" width="400" />
+  <img src="https://raw.githubusercontent.com/ChamikaShashipriya99/ChamikaShashipriya99/main/profile-summary-card-output/default/1-repo-stars.svg" alt="Repo Stars" width="400" />
+  <img src="https://raw.githubusercontent.com/ChamikaShashipriya99/ChamikaShashipriya99/main/profile-summary-card-output/default/2-commits-history.svg" alt="Commits History" width="400" />
+  <img src="https://raw.githubusercontent.com/ChamikaShashipriya99/ChamikaShashipriya99/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" width="400" />
+  <img src="https://raw.githubusercontent.com/ChamikaShashipriya99/ChamikaShashipriya99/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" width="400" />
+</p>
+
+---
+
 <h3 align="center">🔗 Connect With Me</h3>
 
 <p align="center">
