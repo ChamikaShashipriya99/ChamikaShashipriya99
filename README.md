@@ -15,8 +15,11 @@
 
 <p align="center">
   <a href="https://chamika-shashipriya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="portfolio.png" width="800" alt="My Portfolio Preview" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </a>
+</p>
+<p align="center">
+  <i>Click the image above to visit my live portfolio! 👆</i>
 </p>
 
 ---
