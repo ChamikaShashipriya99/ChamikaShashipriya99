@@ -7,12 +7,6 @@ on:
   
   # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the master/main branch
-  push:
-    branches:
-    - master
-    - main
 
 jobs:
   generate-3d:
@@ -20,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       # Generates the 3D contribution graph
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
