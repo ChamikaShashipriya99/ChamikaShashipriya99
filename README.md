@@ -1,38 +1,28 @@
-<div align="center">
+![Chamika's animated GitHub terminal dashboard](assets/github-dashboard.svg)
 
-![Chamika's terminal dashboard](assets/github-dashboard.svg)
+<p align="center">
+  <a href="https://chamikashashipriya.dev"><img src="assets/terminal/contact-portfolio.svg" width="32%" alt="Portfolio — chamikashashipriya.dev" /></a>
+  <a href="https://www.linkedin.com/in/chamika-shashipriya-722366321"><img src="assets/terminal/contact-linkedin.svg" width="32%" alt="LinkedIn — connect with Chamika" /></a>
+  <a href="mailto:chamikashashipriya3@gmail.com"><img src="assets/terminal/contact-email.svg" width="32%" alt="Email — chamikashashipriya3@gmail.com" /></a>
+</p>
 
-[Portfolio](https://chamikashashipriya.dev) · [LinkedIn](https://www.linkedin.com/in/chamika-shashipriya-722366321) · [Email](mailto:chamikashashipriya3@gmail.com)
+![About: Full-stack developer and software engineering undergraduate from Ambalangoda, Sri Lanka. Building with Next.js, React, Node.js, and Spring Boot. Exploring Three.js, Framer Motion, and scalable architectures.](assets/terminal/about.svg)
 
-</div>
+![chamika@github:~ $ ls projects/ — six featured projects](assets/terminal/projects.svg)
 
-### `chamika@github:~ $ cat about.txt`
+[![Modern 3D Portfolio — Next.js, TypeScript, Three.js, Tailwind](assets/terminal/project-portfolio.svg)](https://github.com/ChamikaShashipriya99/My-Portfolio-using-Next.js)
 
-Full-stack web developer and software engineering undergraduate from Ambalangoda, Sri Lanka. I build modern web applications and explore interactive 3D experiences.
+[![RP Planner (J26-IT-302) — research workflow planning with C++](assets/terminal/project-planner.svg)](https://github.com/ChamikaShashipriya99/RP-Planner-J26-IT-302)
 
-**Currently building with** Next.js, React, Node.js, and Spring Boot.
+[![Smart Campus PAF System — JavaScript, Node.js, Web](assets/terminal/project-campus.svg)](https://github.com/ChamikaShashipriya99/it3030-paf-2026-smart-campus-group76)
 
-**Exploring** Three.js, Framer Motion, and scalable application architectures.
+[![Event Management System — JavaScript, Full-Stack](assets/terminal/project-events.svg)](https://github.com/ChamikaShashipriya99/Enterprises-Event-Management-System-ITPM-Group-Project)
 
-### `chamika@github:~ $ ls projects/`
+[![Yamaha MT-15 Service Hub — TypeScript, React, Web](assets/terminal/project-yamaha.svg)](https://github.com/ChamikaShashipriya99/YAMAHA-MT15-Service-Recoard-Holding-WebSite)
 
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| 🌐 **Modern 3D Portfolio** | Futuristic interactive 3D developer portfolio showcasing projects and animations. | `Next.js` `TypeScript` `Three.js` `Tailwind` | [View Repo](https://github.com/ChamikaShashipriya99/My-Portfolio-using-Next.js) |
-| 📋 **RP Planner (J26-IT-302)** | Collaborative project and workflow planning tool engineered for research teams. | `C++` `Application` | [View Repo](https://github.com/ChamikaShashipriya99/RP-Planner-J26-IT-302) |
-| 🎓 **Smart Campus PAF System** | Scalable enterprise campus management platform built for modern academic workflows. | `JavaScript` `Node.js` `Web` | [View Repo](https://github.com/ChamikaShashipriya99/it3030-paf-2026-smart-campus-group76) |
-| 🎪 **Event Management System** | Enterprise event coordination and ticket/attendee handling software system. | `JavaScript` `Full-Stack` | [View Repo](https://github.com/ChamikaShashipriya99/Enterprises-Event-Management-System-ITPM-Group-Project) |
-| 🏍️ **Yamaha MT-15 Service Hub** | Dedicated web portal for recording, managing, and monitoring motorcycle maintenance history. | `TypeScript` `React` `Web` | [View Repo](https://github.com/ChamikaShashipriya99/YAMAHA-MT15-Service-Recoard-Holding-WebSite) |
-| 🌿 **GreenPulse IoT System** | Intelligent smart environmental monitoring and automation IoT platform. | `C++` `IoT` `Hardware/Cloud` | [View Repo](https://github.com/ChamikaShashipriya99/IOT-Assignment-GraeenPulse) |
+[![GreenPulse IoT System — C++, IoT, Hardware / Cloud](assets/terminal/project-greenpulse.svg)](https://github.com/ChamikaShashipriya99/IOT-Assignment-GraeenPulse)
 
-### `chamika@github:~ $ cat stack.txt`
-
-| Area | Technologies |
-| :--- | :--- |
-| Frontend | TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS |
-| Backend | Node.js, Express, Java, Spring Boot, C#, .NET, PHP |
-| Data | MySQL, MongoDB, Firebase |
-| Creative & tools | Three.js, Framer Motion, Figma, Git, Linux, Vercel |
+![Stack: Frontend — TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS. Backend — Node.js, Express, Java, Spring Boot, C#, .NET, PHP. Data — MySQL, MongoDB, Firebase. Creative and tools — Three.js, Framer Motion, Figma, Git, Linux, Vercel.](assets/terminal/stack.svg)
 
 <details>
 <summary>More activity · contribution snake and 3D graph</summary>
@@ -42,7 +32,3 @@ Full-stack web developer and software engineering undergraduate from Ambalangoda
 ![3D contribution graph](profile-3d-contrib/profile-night-view.svg)
 
 </details>
-
----
-
-`$ echo "Learn • Build • Improve"`

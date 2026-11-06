@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title"><title id="title">About Chamika Shashipriya</title>
+<style>
+  .cursor { animation: blink 1.2s steps(1,end) infinite; }
+  .status { animation: pulse 4s ease-in-out infinite; }
+  @keyframes blink { 0%,49% {opacity:1} 50%,100% {opacity:0} }
+  @keyframes pulse { 0%,100% {opacity:.45} 50% {opacity:1} }
+  @media (prefers-reduced-motion:reduce) { .cursor,.status {animation:none} }
+</style>
+<rect x="1" y="1" width="998" height="298" fill="#0d1110" rx="10" stroke="#27352d"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace"><circle cx="25" cy="24" r="4" fill="#39ed70"/><circle cx="38" cy="24" r="4" fill="#637469"/><circle cx="51" cy="24" r="4" fill="#34473b"/><text x="81" y="29" font-size="12" fill="#708378" >~/profile/about.txt</text><text x="26" y="72" font-size="21" fill="#e3ede6" font-weight="700">chamika@github:~ $ cat about.txt</text><rect x="26" y="89" width="948" height="1" fill="#27352d" /><rect x="950" y="56" width="10" height="18" fill="#39ed70" class="cursor"/><text x="28" y="130" font-size="20" fill="#e3ede6" >Full-stack web developer / Software engineering undergraduate</text><text x="28" y="163" font-size="17" fill="#39ed70" >Ambalangoda, Sri Lanka</text><text x="28" y="202" font-size="18" fill="#b6c9bc" >I build modern web applications and explore interactive 3D experiences.</text><text x="28" y="240" font-size="16" fill="#39ed70" >&gt; building</text><text x="170" y="240" font-size="17" fill="#b6c9bc" >Next.js / React / Node.js / Spring Boot</text><text x="28" y="271" font-size="16" fill="#39ed70" >&gt; exploring</text><text x="170" y="271" font-size="17" fill="#b6c9bc" >Three.js / Framer Motion / Scalable architectures</text></g></svg>

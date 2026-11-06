@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-labelledby="title"><title id="title">Smart Campus PAF System: Campus management platform for modern academic workflows. Stack: JavaScript, Node.js, Web. Open repository.</title>
+<style>
+  .cursor { animation: blink 1.2s steps(1,end) infinite; }
+  .status { animation: pulse 4s ease-in-out infinite; }
+  @keyframes blink { 0%,49% {opacity:1} 50%,100% {opacity:0} }
+  @keyframes pulse { 0%,100% {opacity:.45} 50% {opacity:1} }
+  @media (prefers-reduced-motion:reduce) { .cursor,.status {animation:none} }
+</style>
+<rect x="1" y="1" width="998" height="198" fill="#0d1110" rx="10" stroke="#27352d"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace"><rect x="1" y="20" width="3" height="126" fill="#39ed70" rx="1"/><text x="26" y="39" font-size="12" fill="#708378" >~/projects/03</text><text x="26" y="76" font-size="25" fill="#e3ede6" font-weight="700">Smart Campus PAF System</text><text x="26" y="111" font-size="17" fill="#b6c9bc" >Campus management platform for modern</text><text x="26" y="137" font-size="17" fill="#b6c9bc" >academic workflows.</text><text x="959" y="39" font-size="15" fill="#39ed70" text-anchor="end">[ open repository ↗ ]</text><rect x="26" y="155" width="116" height="27" fill="#13251c" rx="4" stroke="#244d32"/><text x="39" y="174" font-size="15" fill="#39ed70" >JavaScript</text><rect x="152" y="155" width="89" height="27" fill="#13251c" rx="4" stroke="#244d32"/><text x="165" y="174" font-size="15" fill="#39ed70" >Node.js</text><rect x="251" y="155" width="53" height="27" fill="#13251c" rx="4" stroke="#244d32"/><text x="264" y="174" font-size="15" fill="#39ed70" >Web</text><circle cx="955" cy="168" r="4" fill="#39ed70" class="status"/></g></svg>
