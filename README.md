@@ -25,10 +25,10 @@
 ![Stack: Frontend — TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS. Backend — Node.js, Express, Java, Spring Boot, C#, .NET, PHP. Data — MySQL, MongoDB, Firebase. Creative and tools — Three.js, Framer Motion, Figma, Git, Linux, Vercel.](assets/terminal/stack.svg)
 
 <details>
-<summary>More activity · contribution snake and 3D graph</summary>
+<summary><code>&gt; Open activity logs</code></summary>
 
-![Contribution snake](https://raw.githubusercontent.com/ChamikaShashipriya99/ChamikaShashipriya99/output/github-contribution-grid-snake-dark.svg)
+![Animated green contribution snake in a terminal panel](assets/terminal/activity-snake.svg)
 
-![3D contribution graph](profile-3d-contrib/profile-night-view.svg)
+![Green 3D contribution landscape in a terminal panel](assets/terminal/activity-landscape.svg)
 
 </details>
